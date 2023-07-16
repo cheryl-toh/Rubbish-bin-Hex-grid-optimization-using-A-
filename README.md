@@ -1,4 +1,4 @@
-# Rubbish Disposal Path Finder
+# Rubbish Bin Optimization Using A* Heuristic (Multiple goals)
 
 This project aims to find an optimal path (least cost) for Ronny to clear out all the rubbish from various rooms using a rubbish bin. Ronny is equipped with a rubbish bin that can hold a total of 5 m3 of objects, and he can only move the rubbish bin of 40 kg.
 
